@@ -28,20 +28,21 @@ ul {
   padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
+  width: 100%;
 }
-/* Small */
+/* small*/
 @media (min-width: 768px) {
   .container {
     width: 750px;
   }
 }
-/* Medium */
+/* Medium*/
 @media (min-width: 992px) {
   .container {
     width: 970px;
   }
 }
-/* Large */
+/* large*/
 @media (min-width: 1200px) {
   .container {
     width: 1170px;
